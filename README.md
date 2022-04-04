@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Telegram" width="32px" src="https://user-images.githubusercontent.com/64479736/161628939-8b4c6528-1e2a-470f-857d-635f60b6a2f9.png" />][telegram]
+[<img align="left" alt="Telegram" width="32px" src="https://user-images.githubusercontent.com/64479736/161635901-11cf104c-1d26-496d-ad8e-77eefa59a310.png" />][telegram]
 
 [telegram]: https://t.me/kalpovskii          
-          
+       
