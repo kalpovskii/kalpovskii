@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mail" width="36px" src="https://user-images.githubusercontent.com/64479736/161626857-a6310825-3c62-4aec-bda1-b00bc28adb7b.png" />] [mail]
+<img align="left" alt="Mail" width="36px" src="https://user-images.githubusercontent.com/64479736/161626857-a6310825-3c62-4aec-bda1-b00bc28adb7b.png" />
 [<img align="left" alt="Telegram" width="36px" src="https://user-images.githubusercontent.com/64479736/161627055-396d1151-8554-4108-a8de-d976d1c35ef1.png" />][telegram]
 
 [telegram]: https://t.me/kalpovskii          
