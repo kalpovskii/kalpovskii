@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpovskii)](https://github.com/anuraghazra/github-readme-stats&count_private=true?theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpovskii&theme=dracula&show_icons=true)
