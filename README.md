@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux)
 ![](https://img.shields.io/badge/-postman-black?style=flat-square&logo=postman)
 ![](https://img.shields.io/badge/-docker-black?style=flat-square&logo=docker)
+![](https://img.shields.io/badge/-ubuntu-black?style=flat-square&logo=ubuntu)
 #### Striving for
 ![](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
 ![](https://img.shields.io/badge/-node.js-black?style=flat-square&logo=node.js)
