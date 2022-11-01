@@ -1,4 +1,4 @@
-#### Contribute
+#### Contributions
 * [doka.guide](https://doka.guide/people/kalpovskii/) — документация для разработчиков
 #### Projects 
 * [redux app](https://github.com/kalpovskii/basic-redux) — простое приложение с использованием redux
