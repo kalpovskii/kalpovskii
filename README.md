@@ -2,6 +2,7 @@
 * [doka.guide](https://doka.guide/people/kalpovskii/) — документация для разработчиков
 #### Projects 
 * [redux app](https://github.com/kalpovskii/basic-redux) — простое приложение с использованием redux
+* [pizza-shop](https://github.com/kalpovskii/pizza-react) — сайт пиццерии с использованием react.js
 #### Languages and tools
 ![](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
