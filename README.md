@@ -1,9 +1,9 @@
 #### Contributions
 * [doka.guide](https://doka.guide/people/kalpovskii/) — документация для разработчиков
 #### Projects 
-* [redux app](https://github.com/kalpovskii/basic-redux) — простое приложение с использованием redux
 * [pizza-shop](https://github.com/kalpovskii/pizza-react) — сайт пиццерии с использованием react.js
 * [todo app](https://github.com/kalpovskii/todo-ts) — todo приложение на typescript
+* [redux app](https://github.com/kalpovskii/basic-redux) — простое приложение с использованием redux
 #### Примеры вёрстки
 * [crappo](https://github.com/kalpovskii/crappo)
 * [snikpic](https://kalpovskii.github.io/snikpic/)
