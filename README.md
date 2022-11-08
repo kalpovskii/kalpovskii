@@ -6,6 +6,7 @@
 * [todo app](https://github.com/kalpovskii/todo-ts) — todo приложение на typescript
 #### Примеры вёрстки
 * [crappo](https://github.com/kalpovskii/crappo)
+* [snikpic](https://kalpovskii.github.io/snikpic/)
 #### Languages and tools
 ![](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
