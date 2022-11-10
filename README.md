@@ -5,7 +5,7 @@
 * [todo app](https://github.com/kalpovskii/todo-ts) — todo приложение на typescript
 * [redux app](https://github.com/kalpovskii/basic-redux) — простое приложение с использованием redux
 #### Примеры вёрстки
-* [snikpic](https://github.com/kalpovskii/snikpic)
+* [snikpic](https://github.com/kalpovskii/snikpic) — медиа-агентство
 * [mozi](https://github.com/kalpovskii/mozi) — продукты для бизнеса
 * [crappo](https://github.com/kalpovskii/crappo)
 
