@@ -6,7 +6,9 @@
 * [redux app](https://github.com/kalpovskii/basic-redux) — простое приложение с использованием redux
 #### Примеры вёрстки
 * [snikpic](https://github.com/kalpovskii/snikpic)
+* [mozi](https://github.com/kalpovskii/mozi)
 * [crappo](https://github.com/kalpovskii/crappo)
+
 #### Languages and tools
 ![](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
