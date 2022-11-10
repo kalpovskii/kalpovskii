@@ -7,7 +7,7 @@
 #### Примеры вёрстки
 * [snikpic](https://github.com/kalpovskii/snikpic) — медиа-агентство
 * [mozi](https://github.com/kalpovskii/mozi) — продукты для бизнеса
-* [crappo](https://github.com/kalpovskii/crappo)
+* [crappo](https://github.com/kalpovskii/crappo) — крипто-биржа
 
 #### Languages and tools
 ![](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
