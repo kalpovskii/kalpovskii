@@ -1,4 +1,4 @@
-#### Участие в open source
+#### Участие в Open source
 * [doka.guide](https://doka.guide/people/kalpovskii/) — документация для разработчиков
 #### Проекты 
 * [pizza-shop](https://github.com/kalpovskii/pizza-react) — сайт пиццерии с использованием react.js
