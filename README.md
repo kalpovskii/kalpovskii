@@ -1,6 +1,6 @@
 #### Участие в Open source 
 * [doka.guide](https://doka.guide/people/kalpovskii/) — документация для разработчиков
-#### Проекты 
+#### Проекты
 * [pizza-shop](https://github.com/kalpovskii/pizza-react) — сайт пиццерии с использованием react.js и docker
 * [todo app](https://github.com/kalpovskii/todo-ts) — todo приложение на typescript
 * [redux app](https://github.com/kalpovskii/basic-redux) — простое приложение с использованием redux
