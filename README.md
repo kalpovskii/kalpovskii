@@ -4,7 +4,6 @@
 * [youtube-clone](https://github.com/kalpovskii/youtube-clone) — клон youtube с material ui и rapidApi
 * [pizza-shop](https://github.com/kalpovskii/pizza-react) — сайт пиццерии с использованием react.js и docker
 * [todo app](https://github.com/kalpovskii/todo-ts) — todo приложение на typescript
-* [redux app](https://github.com/kalpovskii/basic-redux) — простое приложение с использованием redux
 #### Примеры вёрстки
 * [snikpic](https://github.com/kalpovskii/snikpic) — медиа-агентство
 * [mozi](https://github.com/kalpovskii/mozi) — продукты для бизнеса
