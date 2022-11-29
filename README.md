@@ -1,4 +1,4 @@
-#### Участие в Open source 
+#### Участие в Open source
 * [doka.guide](https://doka.guide/people/kalpovskii/) — документация для разработчиков
 #### Проекты
 * [youtube-clone](https://github.com/kalpovskii/youtube-clone) — клон youtube с material ui и rapidApi
