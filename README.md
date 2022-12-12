@@ -9,7 +9,7 @@
 * [mozi](https://github.com/kalpovskii/mozi) — продукты для бизнеса
 * [crappo](https://github.com/kalpovskii/crappo) — крипто-биржа 
 
-#### Языки и инструменты 
+#### Языки и инструменты
 ![](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
 ![](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
