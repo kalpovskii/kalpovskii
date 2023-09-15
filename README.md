@@ -1,23 +1,19 @@
 #### Участие в Open source
 * [doka.guide](https://doka.guide/people/kalpovskii/) — документация для разработчиков
-#### Проекты
-* [youtube-clone](https://github.com/kalpovskii/youtube-clone) — клон youtube с material ui и rapidApi
-* [pizza-shop](https://github.com/kalpovskii/pizza-react) — сайт пиццерии с использованием react.js и docker
-* [todo app](https://github.com/kalpovskii/todo-ts) — todo приложение на typescript
-#### Примеры вёрстки
-* [snikpic](https://github.com/kalpovskii/snikpic) — медиа-агентство
-* [mozi](https://github.com/kalpovskii/mozi) — продукты для бизнеса
-* [crappo](https://github.com/kalpovskii/crappo) — крипто-биржа 
-
+#### Примеры кода
+* [coin-app](https://github.com/kalpovskii/next-js-pet) — рейтинг криптовалют на next.js с библиотекой ethers.js
+* [webserver](https://github.com/kalpovskii/go-test) — вебсервер на golang
+* [telegram bot](https://github.com/kalpovskii/tg-bot) — телеграм бот на golang
 #### Языки и инструменты
-![](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
+![](https://img.shields.io/badge/-next.js-black?style=flat-square&logo=next.js)
 ![](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
-![](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
+![](https://img.shields.io/badge/-storybook-black?style=flat-square&logo=storybook)
+![](https://img.shields.io/badge/-eslint-black?style=flat-square&logo=eslint)<br>
+![](https://img.shields.io/badge/-figma-black?style=flat-square&logo=figma)
+![](https://img.shields.io/badge/-swr-black?style=flat-square&logo=swr)
 ![](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
-![](https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass)<br>
-![](https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux)
 ![](https://img.shields.io/badge/-postman-black?style=flat-square&logo=postman)
 ![](https://img.shields.io/badge/-docker-black?style=flat-square&logo=docker)
 ![](https://img.shields.io/badge/-ubuntu-black?style=flat-square&logo=ubuntu)
-#### Планирую изучить
-![](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
+
