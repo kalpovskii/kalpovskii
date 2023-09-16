@@ -6,8 +6,8 @@
 * [telegram bot](https://github.com/kalpovskii/tg-bot) — телеграм бот на golang
 #### Языки и инструменты
 ![](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
-![](https://img.shields.io/badge/-next.js-black?style=flat-square&logo=next.js)
 ![](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
+![](https://img.shields.io/badge/-next.js-black?style=flat-square&logo=next.js)
 ![](https://img.shields.io/badge/-storybook-black?style=flat-square&logo=storybook)
 ![](https://img.shields.io/badge/-eslint-black?style=flat-square&logo=eslint)<br>
 ![](https://img.shields.io/badge/-figma-black?style=flat-square&logo=figma)
