@@ -1,8 +1,7 @@
 #### Участие в Open source
 * [doka.guide](https://doka.guide/people/kalpovskii/) — документация для разработчиков
 #### Примеры кода
-* [coin-app](https://github.com/kalpovskii/next-js-pet) — рейтинг криптовалют на next.js с библиотекой ethers.js
-* [webserver](https://github.com/kalpovskii/go-test) — сервер на golang
+* [rest api](https://github.com/kalpovskii/go-test) — rest api сервис на golang
 * [telegram bot](https://github.com/kalpovskii/tg-bot) — телеграм бот на golang
 #### Языки и инструменты
 ![](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
