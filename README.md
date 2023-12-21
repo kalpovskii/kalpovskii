@@ -1,6 +1,7 @@
 #### Участие в Open source
 * [doka.guide](https://doka.guide/people/kalpovskii/) — документация для разработчиков
 #### Примеры кода
+* [buy me a coffee]([https://github.com/kalpovskii/buy-me-a-coffee]) — смарт-контракт развёрнутый в sepolia с фронтендом при использовании wagmi
 * [rest api](https://github.com/kalpovskii/go-test) — rest api сервис на golang
 * [telegram bot](https://github.com/kalpovskii/tg-bot) — телеграм бот на golang
 #### Языки и инструменты
